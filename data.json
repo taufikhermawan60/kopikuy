@@ -1,0 +1,85 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Ml",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+          "foto": "images/produk/affogato.jpg",
+            "nama": "Affogato",
+            "size": "50 Ml",
+            "harga": "27.000",
+            "link": "https://www.google.com/search?sca_esv=a83cf3ab82d90a13&sxsrf=ACQVn09IhZvDnwLwz328R9GaLAf4KZSDbw:1709805889895&q=affogato+coffee&tbm=shop&source=lnms&biw=1536&bih=730&dpr=1.25"  
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu Robusta",
+            "size": "100 Ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Ml",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "snack" : [
+        { 
+            "foto": "images/produk/kentang.jpeg",
+            "nama": "French Fries",
+            "size": "500 gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+         { 
+            "foto": "images/produk/wings.jpg",
+            "nama": "Chicken Wings",
+            "size": "300 gram",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+
+
+
+    ],
+    "nonkopi" : [
+        {
+            "foto": "images/produk/macha.jpg",
+            "nama": "Matcha Latte",
+            "size": "150 Ml",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/redvelvet.jpg",
+            "nama": "Red Velvet",
+            "size": "150 Ml",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+
+    
+}
